@@ -1,0 +1,10 @@
+earthengine-api
+geemap
+rasterio
+tensorflow
+scikit-learn
+matplotlib
+keras-tuner
+jupyter
+notebook
+landsatxplore
